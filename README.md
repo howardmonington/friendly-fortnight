@@ -23,21 +23,21 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |      | 9.05   |           | 2 | Introduction to Probability               |  [TW](https://github.com/dblarremore/csci3022/blob/master/slides/lec4_TW.pdf) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec4.pdf)           | [Quizlet01 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26849), [hw1  posted](https://github.com/dblarremore/csci3022/tree/master/homework/homework1)      | 
 |      | 9.07   | [HowTo](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb00_python_question_mark.ipynb), [nb01](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb01_pandas_titanic.ipynb), [nb02](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb02_summarystats_weather.ipynb)          |             | **How to Python/EDA**                       |             |                  | 
 | 3    | 9.10   | [viz](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb_bonus_thePlotThickens.ipynb), [nb03](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb03_graphical_summaries_wrangling.ipynb)          | 2,3         | **Data Wrangling/Visualization**                        |             |                  | 
-|      | 9.12   |           | 6           | Axioms and Theorems of Probability       | [TW](https://drive.google.com/open?id=1sk7rtuzN772_EGJXfGzOFNylq9Yr7WM3) DL            |                  | 
-|      | 9.14   |           | 3           | **Stochastic Simulation**                |             | [hw1 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26848)          | 
-| 4    | 9.17   |           | 4           | Bayes' Rule and Intro to PDFs            |             | hw2 posted, [Quizlet02 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26850)       | 
-|      | 9.19   |           | 4,5         | Discrete RVs, PMFs, CMFs                 |             |                  | 
-|      | 9.21   |           |             | Discrete RVs Strike Back                 |             |                  | 
-| 5    | 9.24   |           | 5           | **Return of the Discrete RVs**           |             |                  | 
+|      | 9.12   |           | 6           | Axioms and Theorems of Probability       | [TW](https://drive.google.com/open?id=1c9dy7BSgmXBQHMUigDix5BARj2WwxvHS) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec5.pdf)            |                  | 
+|      | 9.14   | [nb04](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb04_stochastic_simulation.ipynb), [nb05](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb05_condl_total_prob.ipynb)          | 3           | **Stochastic Simulation**                |             | [hw1 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26848)          | 
+| 4    | 9.17   |           | 4           | Bayes' Rule and Intro to PDFs            | [TW](https://drive.google.com/open?id=1ztkNZbF6lGapdreF1GJhXnXQN6uA9EvD) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec6.pdf)           | [hw2 posted](https://github.com/dblarremore/csci3022/tree/master/homework/homework2), [Quizlet02 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26850)       | 
+|      | 9.19   |           | 4,5         | Discrete RVs, PMFs, CMFs                 | [TW](https://drive.google.com/open?id=1PA0Vn3k8a9PnnrwqzFWLifaqiLsasZti) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec7.pdf)           |                  | 
+|      | 9.21   |           |             | Discrete RVs Strike Back                 | [TW](https://drive.google.com/open?id=1jqlRQP8D_cc7OeNCUIFtaQWE65UYhS66) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec8.pdf)            |                  | 
+| 5    | 9.24   | [nb06](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb06_bayes_LTP.ipynb), [nb07](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb07_discrete_rvs.ipynb), [nb08](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb08_more_discrete_rvs.ipynb)          | 5           | **Return of the Discrete RVs**           |             |  [Quizlet03 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26851)                | 
 |      | 9.26   |           |             | Continuous RVs Awaken, PDFs, CDFs        |             |                  | 
-|      | 9.28   |           | 7           | **The Last Continuous RVs**              |             | hw2 due          | 
+|      | 9.28   |           | 7           | **The Last Continuous RVs**              |             | [hw2 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26852)          | 
 | 6    | 10.01  |           | 7           | Expectation                              |             | hw3 posted       | 
 |      | 10.03  |           |             | Variance                                 |             |                  | 
 |      | 10.05  |           | 5.5         | **More Expectation & Variance**          |             |                  | 
-| 7    | 10.08  |           |             | The Normal Distribution                  |             |                  | 
-|      | 10.10  |           | 14          | **MIDTERM EXAM REVIEW**                  |             |                  | 
-|      | 10.10  |           |             | The Central Limit Theorems               |             |                  | 
-|      | 10.12  |           |             | **MIDTERM EXAM (PM)**                    |             | hw3 due          | 
+| 7    | 10.08  |           |             | **MIDTERM EXAM REVIEW (in class)                 |             |                  | 
+|      | 10.10  |           | 14          | **MIDTERM EXAM (PM)**                  |             |                  | 
+|      | 10.10  |           |             | The Normal Distribution                |             |                  | 
+|      | 10.12  |           |             |  The Central Limit Theorems                   |             | hw3 due          | 
 | 8    | 10.15  |           | 23,24       | **The Central Limit Theorem and You**    |             | hw4 posted       | 
 |      | 10.17  |           | 23,24       | Inference and CI Intro                   |             |                  | 
 |      | 10.19  |           |             | Two-Sample CIs                           |             |                  | 
