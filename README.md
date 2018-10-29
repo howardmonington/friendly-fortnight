@@ -39,12 +39,12 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |      | 10.10  |           |             | The Normal Distribution                |  [TW](https://drive.google.com/open?id=1i0pTIas7Pk1oOVVbvgJcLGknOnqFwHwr) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec12.pdf)          |                  | 
 |      | 10.12  |           |             |  The Central Limit Theorems                   | [TW](https://drive.google.com/open?id=1f2Nmf2qO2ls0fhvX2-jKQbUBdRjkr-5h) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec13.pdf)            | [hw3 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26855)          | 
 | 8    | 10.15  | [nb12](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb12_normal.ipynb), [nb13](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb13_centrallimitthm.ipynb)          | 23,24       | **The Central Limit Theorem and You**    |             | [hw4 posted](https://github.com/dblarremore/csci3022/tree/master/homework/homework4)       | 
-|      | 10.17  |           | 23,24       | Inference and CI Intro                   | [TW](https://drive.google.com/open?id=1-ZPsbBqsQOpGDcZ9YHIZ_XWe8t4YNBHb) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec14.pdf)            | [Quizlet06 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26857)                 | 
-|      | 10.19  |           |             | Two-Sample CIs                           |             |                  | 
-| 9    | 10.22  |           | 25,26       | **CIs in the Wild**                      |             |                  | 
-|      | 10.24  |           | 25,26       | Hypothesis Testing Intro                 |             |                  | 
-|      | 10.26  |           |             | p-Values                                 |             | hw4 due          | 
-| 10   | 10.29  |           | 27          | **Practical HT & p**                     |             | hw5 posted       | 
+|      | 10.17  |           | 23,24       | Inference and CI Intro                   | [TW](https://drive.google.com/open?id=12FT-E4-RBE5hCpAgcAPwdo3fMOPa4JVh) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec14.pdf)            | [Quizlet06 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26857)                 | 
+|      | 10.19  |           |             | Two-Sample CIs                           | [TW](https://drive.google.com/open?id=1mrpE26X6bbwg1ec4P_7rrCUr_GaZ_ID5) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec15.pdf)              |                  | 
+| 9    | 10.22  | [nb14](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb14_confidenceintervals.ipynb)          | 25,26       | **CIs in the Wild**                      |             | [Quizlet07 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26859)                 | 
+|      | 10.24  |           | 25,26       | Hypothesis Testing Intro                 | [TW](https://drive.google.com/open?id=1CG6wI3sBGLekTfz_OMDZFIO3_fCKO8Ft) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec16.pdf)           |                  | 
+|      | 10.26  |           |             | p-Values                                 | [TW](https://drive.google.com/open?id=16hot5nb4QVRVdDDzasHSTZYFO41-e_Kd) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec17.pdf)            | [hw4 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26856)          | 
+| 10   | 10.29  | [nb16](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb16_ht.ipynb), [nb17](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb17_pvals.ipynb)          | 27          | **Practical HT & p**                     |             | [Quizlet08 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26862), [hw5 posted](https://github.com/dblarremore/csci3022/tree/master/homework/homework5)       | 
 |      | 10.31  |           |             | Small-sample HT                          |             |                  | 
 |      | 11.02  |           |             |  TBD                                     |             |                  | 
 | 11   | 11.05  |           | 18,23.3     | Bootstrap Intro                          |             |                  | 
@@ -64,4 +64,5 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |      | 12.07  |           |             | **Logistic Regr. & Classification**      |             |                  | 
 | 16   | 12.10  |           |             | Solution Techniques and SGD              |             |                  | 
 |      | 12.12  |           |             | **FINAL EXAM REVIEW**                    |             | practicum due    | 
-| X    | 12.XX  |           |             | **FINAL EXAM **                          |             |                  | 
+|      | 12.17  | Monday    |             | **FINAL EXAM, Tony's Section (001)**     | 1:30-4 PM   |                  | 
+|      | 12.18  | Tuesday   |             | **FINAL EXAM, Dan's Section (002)**      | 7:30-10 PM  |                  | 
