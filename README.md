@@ -57,12 +57,12 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |      | 11.21  |           |             | **FALL BREAK - NO CLASS**                |             |                  | 
 |      | 11.23  |           |             | **FALL BREAK - NO CLASS**                |             |                  | 
 | 14   | 11.26  |           | ISL Ch3     | Inference in MLR                         | [TW](https://drive.google.com/open?id=1GNStO8PLWZJF2ZhzfvzMRmYprmoSFKHZ) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec23.pdf)            | practicum posted | 
-|      | 11.28  |           | ISL Ch3     | More MLR and ANOVA I                     | [TW](https://drive.google.com/open?id=1afVN_7PlUl7VMcoeIO6kueEds4c0X1sW) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec24.pdf)            |                  | 
-|      | 11.30  |           | ISL Ch3     | ANOVA II                                 |             | [hw6 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26861)          | 
-| 15   | 12.03  |           |             | **ANOVA + Inference in MLR**             |             |                  | 
-|      | 12.05  |           |             | Logistic Regr. & Classification          |             |                  | 
-|      | 12.07  |           |             | **Logistic Regr. & Classification**      |             |                  | 
-| 16   | 12.10  |           |             | Solution Techniques and SGD              |             |                  | 
+|      | 11.28  |           | ISL Ch3     | More MLR and ANOVA I                     | [TW](https://drive.google.com/open?id=1FPri5fdfLy64v4R2k4zbu1-swDGWh6ez) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec24.pdf)            |                  | 
+|      | 11.30  |           | ISL Ch3     | ANOVA II                                 | [TW-nb](https://github.com/dblarremore/csci3022/blob/master/notebooks/bonus_anova.ipynb), [data](https://github.com/dblarremore/csci3022/blob/master/notebooks/data/holding_breath.csv)            | [hw6 due](https://moodle.cs.colorado.edu/mod/assign/view.php?id=26861)          | 
+| 15   | 12.03  | [nb23](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb23_MLRinference.ipynb), [nb24](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb24_ANOVA.ipynb)          |             | **ANOVA + Inference in MLR**             |             |                  | 
+|      | 12.05  |           | TS 11.6, ISL Ch4  | Logistic Regr. & Classification          |  [TW](https://drive.google.com/open?id=1UsWVnxE2RVJfRjbWswlkawR0lQ07rIfM) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec25.pdf)          |                  | 
+|      | 12.07  | [nb25](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb25_logisticregression.ipynb)          |             | **Logistic Regr. & Classification**      |             |                  | 
+| 16   | 12.10  |           | TS 11.7, ISL Ch4  | Solution Techniques and SGD              | [TW](https://drive.google.com/open?id=10qJqjsgEkCBf5QOUzakc3C4GrkDNHYHP)            |                  | 
 |      | 12.12  |           |             | **FINAL EXAM REVIEW**                    |             | practicum due    | 
 |      | 12.17  | Monday    |             | **FINAL EXAM, Tony's Section (001)**     | 1:30-4 PM   |                  | 
 |      | 12.18  | Tuesday   |             | **FINAL EXAM, Dan's Section (002)**      | 7:30-10 PM  |                  | 
